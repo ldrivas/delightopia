@@ -1,0 +1,56 @@
+{
+  "metaTitle": "Alex Tomlinson’s Links",
+  "metaDescription": "Alex’s Tomlinson Links.",
+  "name": "Alex Tomlinson’s Links",
+  "theme": "glitch",
+  "avatarImage": "https://cdn.glitch.me/7d58f7c1-ede5-4a5f-97bd-dc92c1a902c1%2Fbirdico.jpeg?v=1634921774684",
+  "links": [
+        {
+      "url": "https://alex.gd",
+      "text": "Portfolio",
+      "wb": "C",
+      "img":""
+    },
+                        {
+      "url": "https://everpress.com/everybody-grab-hold",
+      "text": "Everybody Grab Hold! Shirt",
+      "wb": "j",
+      "img":""
+    },
+                            {
+      "url": "https://everpress.com/lights-out-for-the-birds",
+      "text": "Lights Out for the Birds Shirt",
+      "wb": "G",
+      "img":""
+    },
+                    {
+      "url": "https://whirlybirdie.com",
+      "text": "Whirly Birdie Variable Font",
+      "wb": "1",
+      "img":""
+    },
+            {
+      "url": "https://open.spotify.com/track/0cN6YQg0KQGWa3hIDK93yo?si=e6b4c8e309be4cdf",
+      "text": "Hit Single",
+      "wb": "¡",
+      "img":""
+    }
+  ],
+  "social": {
+    "glitch": "https://glitch.com/@hootalex",
+    "spotify": "",
+    "substack": "",
+    "dev": "",
+    "facebook": "",
+    "github": "",
+    "instagram": "https://instagram.com/hootalexarchive",
+    "linkedin": "",
+    "medium": "",
+    "patreon": "",
+    "pinterest": "",
+    "twitter": "https://twitter.com/hootalex",
+    "youtube": "",
+    "twitch": "",
+    "email": "1alextomlinson@gmail.com"
+  }
+}
