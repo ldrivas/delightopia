@@ -57,7 +57,7 @@ START Page structure and element resets
 body {
   font-family: var(--font-family);
   background-color: #b2bd8d;;
-  background-image: url('https://cdn.glitch.me/7d58f7c1-ede5-4a5f-97bd-dc92c1a902c1%2Fnorthern-flicker.png?v=1637000535491');
+  background-image: url('file:///C:/Users/User/Documents/GitHub/delightopia/public/img/bgcolour.png');
     background-size: 250px;
     background-repeat: repeat;
 padding-top: 80px;
