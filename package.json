@@ -3,10 +3,11 @@
   "version": "0.0.1",
   "description": "Your very own link-in-bio app.",
   "main": "index.html",
+
   "scripts": {
     "start": "vite",
     "build": "vite build",
-    "serve": "vite preview"
+    "serve": "vite preview --https"
   },
   "devDependencies": {
     "@glitchdotcom/vite-plugin-handlebars": "^1.6.2",
