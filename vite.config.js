@@ -30,4 +30,10 @@ export default defineConfig(async ({ command, mode }) => {
       }
     }
   };
-});
+}
+module.exports = {
+  // ... other configuration options
+  publicDir: 'public',
+};
+);
+
