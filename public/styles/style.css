@@ -57,7 +57,7 @@ START Page structure and element resets
 body {
   font-family: var(--font-family);
   background-color: #FFFFFF;;
-  background-image: url('/img/bgcolour.png');
+  background-image: url('/public/img/bgcolour.png');
     background-size: 250px;
     background-repeat: repeat;
 padding-top: 80px;
