@@ -28,10 +28,10 @@ START Page structure and element resets
   /* Colors you'll see cascade through the elements */
 
   /* To set your own use custom-theme.css with `custom-theme` in settings.json `theme` property */
-  --color-bg: #4f8e33; /* Used for the page body background */
+  --color-bg: #BDBDBD; /* Used for the page body background */
   --color-bg-alt: #FFFFFF; /* Used for social icons on hover */
   --color-text-main: #000000; /* List text ann social icons on hover */
-  --color-primary: #FFFFFF; /* Headers and borders */
+  --color-primary: #67eb5d; /* Headers and borders */
   --color-alt: #e68b75;
 
   /* These are some Glitch colors you are welcome to use! */
