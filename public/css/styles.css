@@ -33,7 +33,7 @@
   
   html {
     /* Set the font globally */
-    font-family: var(--font-family-list);
+    font-family: var(--sans-font);
     scroll-behavior: smooth;
   }
   
