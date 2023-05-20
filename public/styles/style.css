@@ -31,7 +31,7 @@ START Page structure and element resets
   --color-bg: #BDBDBD; /* Used for the page body background */
   --color-bg-alt: #FFFFFF; /* Used for social icons on hover */
   --color-text-main: #000000; /* List text ann social icons on hover */
-  --color-primary: #67eb5d; /* Headers and borders */
+  --color-primary: #FFFFFF; /* Headers and borders */
   --color-alt: #e68b75;
 
   /* These are some Glitch colors you are welcome to use! */
