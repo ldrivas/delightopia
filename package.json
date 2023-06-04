@@ -1,30 +1,18 @@
 {
-  "name": "glitch-in-bio",
-  "version": "0.0.1",
-  "description": "Your very own link-in-bio app.",
-  "main": "index.html",
-
+  "name": "11ty-neocities",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "start": "vite",
-    "build": "vite build",
-    "serve": "vite preview --https"
+    "start": "npx @11ty/eleventy --serve",
+    "build": "npx @11ty/eleventy"
   },
-  "devDependencies": {
-    "@glitchdotcom/vite-plugin-handlebars": "^1.6.2",
-    "handlebars": "^4.7.6",
-    "vite": "^2.9.15"
-  },
-  "browserslist": [
-    ">0.2%",
-    "not dead"
-  ],
-  "engines": {
-    "node": "14.x"
-  },
-  "repository": {
-    "url": "https://glitch.com/edit/#!/glitch-in-bio"
-  },
-  "glitch": {
-    "projectType": "generated_static"
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@11ty/eleventy": "^2.0.1",
+    "rimraf": "^5.0.0"
   }
+
 }
